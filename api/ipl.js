@@ -1,3 +1,3 @@
 export default function(req, res) {
-  res.status(200).send('87.121.79.35')
+  res.status(200).send('127.0.0.1')
 }
